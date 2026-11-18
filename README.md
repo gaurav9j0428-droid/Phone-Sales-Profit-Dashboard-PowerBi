@@ -22,14 +22,9 @@ Power BI, DAX, Excel
 
 ## Dashboard Pages
 
-### KPI Summary
-![KPI Summary](images/kpi.png)
-
-### Phone Sales Dashboard
-![Phone Sales](images/phone-sales.png)
-
-### Profit Dashboard
-![Profit Dashboard](images/profit.png)
+![KPI Summary](images/KPI.png)
+![Phone Sales Dashboard](images/PHONE_SALE_DASHBOARD.png)
+![Profit Dashboard](images/PROFIT_DASHBOARD.png)
 
 ## Files
 - `Phone_Sales_Profit_Dashboard.pbix` - Power BI file
